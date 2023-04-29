@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by e-mail: aiden_pride@mail.ru
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TransportDebuger)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TransportDebuger&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 TransportDebuger/TransportDebuger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
