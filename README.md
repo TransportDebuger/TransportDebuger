@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TransportDebuger
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @TransportDebuger. Now i'm a student of School21 (Moscow campus).
+- 👀 I’m interested in learning of progamm languages.
 - 🌱 I’m currently learning C/C++, Qt5, and other frameworks in C++. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by e-mail: aiden_pride@mail.ru
