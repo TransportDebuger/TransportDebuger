@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C/C++, Qt5, and other frameworks in C++. Also i'm working on DevOps and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by e-mail: aiden_pride@mail.ru
+![Your Top Languages](https://vercel.app)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TransportDebuger&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
